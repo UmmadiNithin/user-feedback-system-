@@ -1,0 +1,98 @@
+
+.feedback-form {
+    max-width: 400px; 
+    padding: 20px; 
+    background-color: #fff;
+    border-radius: 15px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    margin: auto;
+}
+
+
+
+  
+  .feedback-form h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #393a3b; 
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-transform: capitalize;
+    margin-bottom: 30px; 
+    letter-spacing: 1px;
+  }
+  
+ 
+  .feedback-form label {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333; 
+    margin-bottom: 8px;
+    display: block; 
+  }
+  
+  .feedback-form input,
+  .feedback-form textarea,
+  .feedback-form select {
+    width: 93%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    outline: none;
+  }
+  
+
+  .feedback-form input:focus,
+  .feedback-form textarea:focus,
+  .feedback-form select:focus {
+    border-color: #3498db; 
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.5); 
+  }
+  
+
+  .feedback-form button {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 10px; 
+  }
+  
+  .feedback-form button[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .feedback-form button[type="submit"]:hover {
+    background-color: #2980b9; 
+  }
+  
+  .feedback-form button[type="button"] {
+    background-color: #60c063; 
+    color: white;
+    border: none;
+  }
+  
+  .feedback-form button[type="button"]:hover {
+    background-color: #7f8c8d;
+  }
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
